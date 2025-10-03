@@ -28,7 +28,7 @@ Build custom classes, create and level up characters, and track your campaign pr
 ## 📥 Download & Installation
 
 ### Windows
-Download the latest release from the [Releases](https://github.com/Vasilis92/Spellbook-Steel-player-edidtion.exe/releases) page and run the setup executable.
+Download the latest release from the [Releases](https://github.com/Vasilis92/Spellbook-Steel-player-edidtion-exe/releases) page and run the setup executable.
 
 
 The application will create a `spellbooksteel.db` SQLite database file to store your character and campaign data.
